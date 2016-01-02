@@ -1,5 +1,7 @@
-layout_spectrum: 0.9772344
 name: Nomad
+favicon: null
+layout_spectrum: 0.9772344
+typography_spectrum: 0.4983137
 collections:
   - index:
       navigable: true
@@ -12,15 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.4983137
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.8558179
+  brandColors:
+    - '#020001'
+    - '#ff0000'
+    - '#fbff00'
+    - '#ff9900'
+    - '#009970'
+  brandStrength: 0.6875
   lightness: 0.7833052
   saturation: 0.7019919
   rhythmicContrast: 0.0008913686
-  brandColors:
-    - '#FEFEFE'
-    - '#303938'
-    - '#D7E2DE'
-    - '#E0BC9B'
-    - '#B4916E'
+purpose: []
