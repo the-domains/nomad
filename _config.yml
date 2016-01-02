@@ -1,6 +1,6 @@
 name: Nomad
 favicon: null
-layout_spectrum: 0.9772344
+layout_spectrum: 0.75178
 typography_spectrum: 0.4983137
 collections:
   - index:
@@ -35,6 +35,6 @@ color:
     - '#009970'
   brandStrength: 0.6875
   lightness: 0.7833052
-  saturation: 0.7019919
-  rhythmicContrast: 0.0008913686
+  saturation: 0.875
+  rhythmicContrast: 0.25
 purpose: []
