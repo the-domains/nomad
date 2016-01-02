@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Nomad]]></title>
+        <description><![CDATA[Nomad]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 02 Jan 2016 14:23:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nomad... the beginning ]]></title>
+            <description><![CDATA[<article><h1>Nomad... the beginning </h1><p>Nomad is the little corner of the Internet I call my own where I post photos and little tid bits of my adventures. </p></article>]]></description>
+            <link>undefinednomad-the-beginning/index.html</link>
+            <guid isPermaLink="false">3d3bfb3a-31ee-4882-9a15-a96c445cd7b7</guid>
+            <pubDate>Sat, 02 Jan 2016 14:23:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
