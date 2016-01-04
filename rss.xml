@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Nomad]]></title>
         <description><![CDATA[Nomad]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nomad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jan 2016 14:23:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jan 2016 23:35:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nomad/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Nomad... the beginning ]]></title>
-            <description><![CDATA[<article><h1>Nomad... the beginning </h1><p>Nomad is the little corner of the Internet I call my own where I post photos and little tid bits of my adventures. </p></article>]]></description>
-            <link>undefinednomad-the-beginning/index.html</link>
+            <description><![CDATA[<article><h1>Nomad... the beginning </h1><p>First post </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad838edd53bfdc1549ee8a48bb4889b9daf3ff18.jpg"></article>]]></description>
+            <link>https://thegrid.ai/nomad/nomad-the-beginning/index.html</link>
             <guid isPermaLink="false">3d3bfb3a-31ee-4882-9a15-a96c445cd7b7</guid>
-            <pubDate>Sat, 02 Jan 2016 14:23:23 GMT</pubDate>
+            <pubDate>Mon, 04 Jan 2016 23:34:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
