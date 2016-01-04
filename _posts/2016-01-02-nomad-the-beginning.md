@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: 'First post '
-datePublished: '2016-01-04T23:34:33.563Z'
-dateModified: '2016-01-04T23:34:23.145Z'
+datePublished: '2016-01-04T23:35:59.821Z'
+dateModified: '2016-01-04T23:35:45.490Z'
 title: 'Nomad... the beginning '
 author: []
 sourcePath: _posts/2016-01-02-nomad-the-beginning.md
