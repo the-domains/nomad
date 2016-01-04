@@ -1,15 +1,7 @@
-layout_spectrum: 0.75178
-favicon: null
 name: Nomad
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.75178
+typography_spectrum: 0.4983137
 collections:
   - index:
       navigable: true
@@ -22,19 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: 'Photographing the world, one picture at a time.'
 cta:
-  version: null
-  bucket: null
   domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.6875
-  lightness: 0.7833052
-  saturation: 0.875
-  rhythmicContrast: 0.25
   brandColors:
     - '#FEFEFE'
     - '#303938'
     - '#D7E2DE'
     - '#E0BC9B'
     - '#B4916E'
-typography_spectrum: 0.4983137
+  brandStrength: 0.6875
+  lightness: 0.7833052
+  saturation: 0.875
+  rhythmicContrast: 0.25
+purpose: []
