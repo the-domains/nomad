@@ -4,14 +4,28 @@
         <description><![CDATA[Photographing the world, one picture at a time.]]></description>
         <link>https://thegrid.ai/nomad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 02:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jan 2016 10:45:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nomad/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[test]]></title>
+            <description><![CDATA[<article><h1>test</h1><p>this page is under construction</p></article>]]></description>
+            <link>https://thegrid.ai/nomad/test/index.html</link>
+            <guid isPermaLink="false">cd8e8884-665c-4aa7-9c76-0d80ebfe6b7e</guid>
+            <pubDate>Tue, 05 Jan 2016 10:24:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[test]]></title>
+            <description><![CDATA[<h1>test</h1>]]></description>
+            <link>https://thegrid.ai/nomad/test/index.html</link>
+            <guid isPermaLink="false">34a56f43-e99a-4ccf-9914-95b78ce1c5b6</guid>
+            <pubDate>Tue, 05 Jan 2016 10:22:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Nomad... the beginning ]]></title>
-            <description><![CDATA[<article><h1>Nomad... the beginning </h1><p>This is my little corner of the internet where I can post images I have taken from all over the world. I've been lucky enough to grow up with cameras my entire life, but I never really got interested in photography until about 2012. I've been hooked since then devouring as much information as I can find, be they book or videos on every topic you can imagine.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Nomad... the beginning </h1><p>This is my little corner of the internet where I can post images I have taken from all over the world. I've been lucky enough to grow up with cameras my entire life, but I never really got interested in photography until about 2012. I've been hooked since then devouring as much information as I can find, be they book or videos on every topic you can imagine.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d8d98b8-6054-4b51-84b5-5e878c106af4.jpg"></article>]]></description>
             <link>https://thegrid.ai/nomad/nomad-the-beginning/index.html</link>
             <guid isPermaLink="false">596e2f2a-0b60-45d4-a74c-867fabc535fc</guid>
-            <pubDate>Tue, 05 Jan 2016 02:22:11 GMT</pubDate>
+            <pubDate>Tue, 05 Jan 2016 10:45:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
