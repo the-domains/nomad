@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'About me '
-datePublished: '2016-01-05T02:22:11.191Z'
-dateModified: '2016-01-05T02:09:33.489Z'
+datePublished: '2016-01-05T10:42:53.900Z'
+dateModified: '2016-01-05T09:53:17.276Z'
 title: 'Nomad... the beginning '
 author: []
 sourcePath: _posts/2016-01-05-nomad-the-beginning.md
