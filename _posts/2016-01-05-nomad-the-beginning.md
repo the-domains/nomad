@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'About me '
-datePublished: '2016-01-05T10:42:53.900Z'
-dateModified: '2016-01-05T09:53:17.276Z'
+datePublished: '2016-01-05T10:45:04.396Z'
+dateModified: '2016-01-05T10:45:00.007Z'
 title: 'Nomad... the beginning '
 author: []
 sourcePath: _posts/2016-01-05-nomad-the-beginning.md
@@ -22,6 +22,8 @@ url: nomad-the-beginning/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d8d98b8-6054-4b51-84b5-5e878c106af4.jpg)
+
 This is my little corner of the internet where I can post images I have taken from all over the world. I've been lucky enough to grow up with cameras my entire life, but I never really got interested in photography until about 2012\. I've been hooked since then devouring as much information as I can find, be they book or videos on every topic you can imagine.
 
 Now I hope to share my visions of the world with the world. It's a beautiful place, and you can often find beauty in truly remarkable and sometimes odd places.
