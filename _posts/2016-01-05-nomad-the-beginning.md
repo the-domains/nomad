@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'About me '
-datePublished: '2016-01-05T02:00:44.992Z'
-dateModified: '2016-01-05T02:00:26.030Z'
+datePublished: '2016-01-05T02:01:35.800Z'
+dateModified: '2016-01-05T02:01:29.482Z'
 title: 'Nomad... the beginning '
 author: []
+sourcePath: _posts/2016-01-05-nomad-the-beginning.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-05-nomad-the-beginning.md
-published: true
 url: nomad-the-beginning/index.html
 _type: Article
 
