@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'About me '
-datePublished: '2016-01-05T02:01:35.800Z'
-dateModified: '2016-01-05T02:01:29.482Z'
+datePublished: '2016-01-05T02:09:06.154Z'
+dateModified: '2016-01-05T02:02:19.624Z'
 title: 'Nomad... the beginning '
 author: []
 sourcePath: _posts/2016-01-05-nomad-the-beginning.md
