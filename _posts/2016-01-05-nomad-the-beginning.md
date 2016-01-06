@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'About me '
-datePublished: '2016-01-05T10:45:04.396Z'
-dateModified: '2016-01-05T10:45:00.007Z'
+datePublished: '2016-01-06T16:26:55.813Z'
+dateModified: '2016-01-06T16:26:51.782Z'
 title: 'Nomad... the beginning '
 author: []
 sourcePath: _posts/2016-01-05-nomad-the-beginning.md
@@ -35,3 +35,4 @@ I'm in the process of culling through my thousands and thousands of images so th
 People often ask me where I'm from. Usually they really want to know where did I grow up. Well the shortest and easiest answer is that I never really grew up... as to location, well that's more problematic for me to answer quickly. My father was a diplomat (now a retired ambassador), so I essentially grew up all over the world. I spent a good deal of time traveling and seeing things people save up to go and do when they retire. I guess this is the source of my wanderlust. 
 
 So now I travel as much as I can for work or play. I've been very lucky to have been able to see as much as I have and lived to tell the tale. I will be sharing some of my stories with you along with the photographs as time goes by.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/29de21da-0cbf-43f2-bbd2-bc452a82c4e4.jpg)
