@@ -4,15 +4,22 @@
         <description><![CDATA[Photographing the world, one picture at a time.]]></description>
         <link>https://thegrid.ai/nomad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 17:37:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 08:48:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nomad/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Portrait Editing]]></title>
+            <description><![CDATA[<article><h1>Portrait Editing</h1><p>The following picture needed a little help as well. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee90250a78a9f7e448543836f4343fe852e95c1d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/nomad/portrait-editing/index.html</link>
+            <guid isPermaLink="false">fed82534-9eb7-4d75-92bb-40d7084ba68a</guid>
+            <pubDate>Sun, 21 Feb 2016 08:47:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Enhancing Images]]></title>
             <description><![CDATA[<article><h1>Enhancing Images</h1><p>Friends, clients and fellow photographers have asked me how
 I arrive at my finished images. It’s an interesting question, as there is no one-way
 to arrive at a finished image. Here are a few samples of some images I’ve taken
 recently that illustrates what the camera sees and the finished image as I see
-it in my mind’s eye.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6104e2f3b843630192218896174c6ac3e86b133d.jpg"></article>]]></description>
+it in my mind’s eye.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f95f37785c375bbf6cc44368aa131bbfddb93e66.jpg"></article>]]></description>
             <link>https://thegrid.ai/nomad/enhancing-images/index.html</link>
             <guid isPermaLink="false">6a64d2dc-d2ea-44a7-8578-823397946800</guid>
             <pubDate>Sun, 14 Feb 2016 17:37:06 GMT</pubDate>
